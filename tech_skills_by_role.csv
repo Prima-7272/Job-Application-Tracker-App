@@ -1,0 +1,256 @@
+role_category,,technical_skills_required
+BI,sql,20
+BI,power bi,19
+BI,excel,18
+BI,data visualization,17
+BI,business intelligence,15
+BI,dashboard development,13
+BI,data modeling,12
+BI,dax,10
+BI,tableau,6
+BI,power query,6
+BI,etl processes,6
+BI,reporting solutions,5
+BI,data cleaning,5
+BI,reporting tools,5
+BI,python,5
+BI,data analysis,4
+BI,dashboard reporting,4
+BI,google sheets,4
+BI,azure data factory,4
+BI,kpi analysis,4
+BI,kpi reporting,4
+BI,performance optimization,3
+BI,basic dax,3
+BI,kpi tracking,3
+BI,data warehousing,2
+BI,reporting,2
+BI,commercial reporting,2
+BI,forecasting,2
+BI,ssis,2
+BI,inventory analysis,1
+BI,supply chain analysis,1
+BI,logistics kpis,1
+BI,dashboard strategy,1
+BI,azure synapse,1
+BI,etl architecture,1
+BI,reporting automation,1
+BI,financial reporting,1
+BI,automation tools,1
+BI,enterprise analytics,1
+BI,cloud bi platforms,1
+BI,pricing analysis,1
+BI,process automation,1
+BI,revenue management,1
+BI,financial modeling,1
+BI,basic statistics,1
+BI,survey analysis,1
+BI,presentation tools,1
+BI,etl pipelines,1
+BI,postgresql,1
+BI,apache spark,1
+BI,data integration,1
+BI,dashboard optimization,1
+BI,business analysis,1
+BI,statistical analysis,1
+BI,ssrs,1
+BI,database management,1
+Data Analyst,power bi,22
+Data Analyst,data visualization,22
+Data Analyst,sql,21
+Data Analyst,excel,20
+Data Analyst,dashboard development,15
+Data Analyst,data analysis,15
+Data Analyst,python,14
+Data Analyst,kpi analysis,13
+Data Analyst,data cleaning,13
+Data Analyst,tableau,12
+Data Analyst,reporting,10
+Data Analyst,business intelligence,8
+Data Analyst,kpi reporting,7
+Data Analyst,advanced excel,5
+Data Analyst,a/b testing,4
+Data Analyst,data modeling,4
+Data Analyst,basic python,4
+Data Analyst,statistics,4
+Data Analyst,google sheets,3
+Data Analyst,data interpretation,3
+Data Analyst,experimentation,3
+Data Analyst,customer insights,3
+Data Analyst,product analytics,3
+Data Analyst,business reporting,2
+Data Analyst,risk assessment,2
+Data Analyst,pos systems,2
+Data Analyst,financial analysis,2
+Data Analyst,pivot tables,2
+Data Analyst,forecasting,2
+Data Analyst,sales analysis,2
+Data Analyst,business performance analysis,2
+Data Analyst,regulatory reporting,2
+Data Analyst,dashboards,2
+Data Analyst,performance analysis,2
+Data Analyst,financial modeling,2
+Data Analyst,pandas,2
+Data Analyst,analytics support,2
+Data Analyst,user behavior analysis,2
+Data Analyst,reporting automation,2
+Data Analyst,dax,1
+Data Analyst,google analytics,1
+Data Analyst,business understanding,1
+Data Analyst,energy systems analysis,1
+Data Analyst,sustainability analysis,1
+Data Analyst,communication,1
+Data Analyst,data storytelling,1
+Data Analyst,sql basics,1
+Data Analyst,basic reporting,1
+Data Analyst,reporting tools,1
+Data Analyst,learning ability,1
+Data Analyst,mobility analytics,1
+Data Analyst,customer journey analysis,1
+Data Analyst,demand planning,1
+Data Analyst,basic data analysis,1
+Data Analyst,finance analytics,1
+Data Analyst,retail analytics,1
+Data Analyst,system optimization,1
+Data Analyst,demand forecasting,1
+Data Analyst,energy data analysis,1
+Data Analyst,sustainability analytics,1
+Data Analyst,business analysis,1
+Data Analyst,statistical analysis,1
+Data Analyst,etl basics,1
+Data Analyst,basic statistics,1
+Data Engineer,git,10
+Data Engineer,sql,7
+Data Engineer,linux,7
+Data Engineer,python,6
+Data Engineer,docker,6
+Data Engineer,airflow,6
+Data Engineer,apache spark,6
+Data Engineer,data warehousing,6
+Data Engineer,data pipeline basics,5
+Data Engineer,data cleaning,5
+Data Engineer,docker basics,5
+Data Engineer,cloud basics,5
+Data Engineer,bash scripting,5
+Data Engineer,excel,5
+Data Engineer,python basics,5
+Data Engineer,etl pipelines,5
+Data Engineer,terraform,5
+Data Engineer,ci/cd pipelines,5
+Data Engineer,kubernetes,5
+Data Engineer,aws,5
+Data Engineer,linux basics,4
+Data Engineer,sql basics,4
+Data Engineer,kafka,1
+Data Engineer,data architecture,1
+Data Engineer,azure,1
+Data Engineer,distributed systems,1
+Data Engineer,etl pipeline design,1
+Data Engineer,postgresql,1
+Data Engineer,apache kafka,1
+Data Engineer,cloud platforms,1
+Data Engineer,data modeling,1
+DevOps,linux,22
+DevOps,docker,21
+DevOps,terraform,19
+DevOps,kubernetes,18
+DevOps,aws,18
+DevOps,infrastructure as code,17
+DevOps,jenkins,14
+DevOps,bash scripting,13
+DevOps,git,13
+DevOps,ci/cd pipelines,11
+DevOps,monitoring tools,9
+DevOps,azure,8
+DevOps,monitoring & logging,7
+DevOps,ansible,7
+DevOps,cloud security,6
+DevOps,distributed systems,5
+DevOps,gitops,5
+DevOps,cloud networking,5
+DevOps,monitoring & observability,5
+DevOps,automation frameworks,4
+DevOps,ci/cd,4
+DevOps,ci/cd architecture,4
+DevOps,networking fundamentals,3
+DevOps,platform architecture,3
+DevOps,scripting,3
+DevOps,ci/cd basics,3
+DevOps,kubernetes basics,2
+DevOps,aws basics,2
+DevOps,containerization,2
+DevOps,cloud infrastructure,2
+DevOps,postgresql,1
+DevOps,automation scripts,1
+DevOps,backup & recovery,1
+DevOps,platform engineering,1
+DevOps,database monitoring,1
+DevOps,openshift,1
+DevOps,helm,1
+DevOps,service mesh,1
+DevOps,it operations,1
+DevOps,python basics,1
+DevOps,docker basics,1
+DevOps,cloud basics,1
+DevOps,sql basics,1
+ML/AI,python,12
+ML/AI,feature engineering,12
+ML/AI,sql,11
+ML/AI,tensorflow,9
+ML/AI,model deployment,8
+ML/AI,ml pipelines,7
+ML/AI,scikit-learn,7
+ML/AI,docker,7
+ML/AI,pytorch,7
+ML/AI,data analysis,7
+ML/AI,data preprocessing,6
+ML/AI,mlops,5
+ML/AI,git,4
+ML/AI,computer vision,4
+ML/AI,pandas,4
+ML/AI,data modeling,4
+ML/AI,data pipelines,4
+ML/AI,nlp,3
+ML/AI,machine learning algorithms,3
+ML/AI,stakeholder management,3
+ML/AI,model training,3
+ML/AI,deep learning,3
+ML/AI,etl,2
+ML/AI,distributed systems,2
+ML/AI,customer insights,2
+ML/AI,machine learning,2
+ML/AI,demand forecasting,2
+ML/AI,system design,2
+ML/AI,performance optimization,2
+ML/AI,scalability,2
+ML/AI,technical leadership,2
+ML/AI,business analysis,1
+ML/AI,reporting,1
+ML/AI,process optimization,1
+ML/AI,service analytics,1
+ML/AI,basic deep learning,1
+ML/AI,basic mlops,1
+ML/AI,ai solutions development,1
+ML/AI,retail analytics,1
+ML/AI,supply chain analytics,1
+ML/AI,ml algorithms,1
+UX,figma,6
+UX,adobe xd,6
+UX,wireframing,6
+UX,prototyping,6
+UX,user research,6
+UX,interaction design,6
+UX,usability testing,6
+UX,design systems,6
+UX,ux design,5
+UX,ui design,4
+UX,user flows,4
+UX,information architecture,4
+UX,usability optimization,4
+UX,ai product design,2
+UX,human-centered design,2
+UX,reporting,1
+UX,business analysis,1
+UX,digital product design,1
+UX,system design,1
+UX,basic design principles,1
