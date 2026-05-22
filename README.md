@@ -1,6 +1,3 @@
-# Job-Application-Tracker-App
-Building an app/website which can help to recommend career system.
-
 # 🚀 Career Recommendation System
 
 An intelligent and explainable career recommendation system built with Python and Streamlit.
